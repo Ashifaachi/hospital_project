@@ -1,0 +1,8 @@
+li{
+    transition: .5s;
+}
+li:hover{
+    background-color: grey;
+    border-radius: 10px;
+    border: 1px solid yellow;
+}
